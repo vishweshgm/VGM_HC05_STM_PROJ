@@ -1,0 +1,5 @@
+stm32_uart.c:16:6:stm32Uart_IRQHandler	32	static
+stm32_uart.c:51:20:stm32Uart_RxProcessingAppl	24	static
+stm32_uart.c:84:20:stm32Uart_TxProcessingAppl	16	static
+stm32_uart.c:125:6:stm32Uart_RxInterruptEnable	16	static
+stm32_uart.c:143:6:stm32Uart_TxInterruptEnable	16	static
